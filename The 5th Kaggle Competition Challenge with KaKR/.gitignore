@@ -1,0 +1,7 @@
+workspace/data/
+workspace/.ipynb_checkpoints/
+workspace/model/
+workspace/ensemble_folder/
+workspace/test.ipynb/
+workspace/lightgbm.ipynb/
+workspace/DistilBERT.ipynb/
