@@ -5,3 +5,4 @@ workspace/ensemble_folder/
 workspace/test.ipynb
 workspace/lightgbm.ipynb
 workspace/DistilBERT.ipynb
+workspace/.*
